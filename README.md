@@ -119,7 +119,7 @@ car-sales-excel-dashboard/
 
 **Resume Bullet Points (ATS-friendly):**
 - Built an end-to-end Excel dashboard analyzing 157 vehicle models across 30 manufacturers, applying a documented data-cleaning methodology (segment-based median imputation) to handle 51 missing values across 11 columns without discarding any records.
-- Designed 5 KPI metrics and 5 dynamic PivotTable-style summary tables using SUMIFS/AVERAGEIFS formulas, translated into an interactive single-page dashboard with 5 native Excel charts and AutoFilter-based data exploration.
+- Designed 5 KPI metrics and formula-driven summary tables using SUMIFS/AVERAGEIFS formulas, translated into an interactive single-page dashboard with 5 native Excel charts and AutoFilter-based data exploration.
 - Delivered 8 data-driven business insights (e.g., top-selling manufacturer/model, price-horsepower correlation of r=0.84) by analyzing sales, pricing, and performance relationships across vehicle segments.
 
 **Technical Skills Demonstrated:**
